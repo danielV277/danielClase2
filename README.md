@@ -8,10 +8,11 @@ Creacion de repositorios y manejo de MarkDown
 
 ##Codigo
 
-´´´
+```
   def ejemplo(x):
     print("Esto es un ejemplo", x)
-´´´
+```
+
 ![perrito](https://i.pinimg.com/236x/26/24/9a/26249a78777f6e3527d959ed4399dc1e.jpg)
 
 ##Preferencias  
