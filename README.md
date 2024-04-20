@@ -8,7 +8,7 @@ Creacion de repositorios y manejo de MarkDown
 
 ## Codigo
 
-```
+```Python
   def ejemplo(x):
     print("Esto es un ejemplo", x)
 ```
@@ -17,11 +17,11 @@ Creacion de repositorios y manejo de MarkDown
 ![perrito](https://i.pinimg.com/236x/26/24/9a/26249a78777f6e3527d959ed4399dc1e.jpg)
 ## Tablas
 
-| Rank | Languages |
-|-----:|-----------|
-|     1| JavaScript|
-|     2| Python    |
-|     3| SQL       |
+| Rank | Languages | titule      |
+|-----:|-----------|-------------|
+|     1| JavaScript|   text1     |
+|     2| Python    |  text2      |
+|     3| SQL       |  text3      |
 
 ## Preferencias  
 
