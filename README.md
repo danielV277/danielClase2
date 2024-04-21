@@ -16,7 +16,7 @@ Creacion de repositorios y manejo de MarkDown
 
 ![perrito](https://i.pinimg.com/236x/26/24/9a/26249a78777f6e3527d959ed4399dc1e.jpg)
 
-##imagen
+## imagen
 <p aligment="Center"> <img src="logos/cachorros2.jpg" alt="cachorros2"></img></p>
 ## Tablas
 
