@@ -1,7 +1,7 @@
 # danielClase2
 ## Titulo 2
 ### Titulo 3    
-### prueba enlace 1
+
 
 Creacion de repositorios y manejo de MarkDown
 - Version 1.
